@@ -1,0 +1,4 @@
+• One internal link for roughly every 500 words.  
+• Link text should be the blog post title or a close synonym.  
+• Output format must be HTML.  
+• All links must work—no broken pages.  
